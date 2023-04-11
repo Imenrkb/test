@@ -1,1 +1,106 @@
-# test
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Imen❤️ site</title>
+</head>
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td> 
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ETPUM3G6l9Pe3VTHbMbx_yfLk5KqZ_kU9w&usqp=CAU" alt="image test"> </td>
+            <td>
+                <h1>Imen Rekkab</h1>
+                <p><em>Etudiante en informatique.</em></p>
+                <p>test test test</p>
+            </td>
+        </tr>
+    </table>
+    
+    
+    <hr size='3' color=purple>
+    <h3>Education:</h3>
+    <ul>
+        <li>Primaire</li>
+        <li>Collége</li>
+        <li>Lycée</li>
+        <li>Université</li>
+    </ul>
+    <hr size="3" color="blue">
+    <h3>Experience</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Année</th>
+                <th>Projet</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr> <td>2019</td>
+            <td>Projet C</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>Projet java</td>
+        </tr>
+        <tr>
+            <td>2022</td>
+            <td>Projet compilateur</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>Projet assembleur</td>
+        </tr>
+    </tbody>
+    </table>
+    <hr size="3" color="brown">
+    <h3>Compétences</h3>
+    <table >
+        <tr>
+            <td><table cellspacing="10">
+                <tr>
+                   <td>C</td>
+                   <td>⭐⭐⭐</td>
+                </tr>
+                <tr>
+                   <td>Caml</td>
+                   <td>⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                   <td>Latx</td>
+                   <td>⭐⭐⭐</td>
+                </tr>
+                <tr>
+                   <td>Assembleur</td>
+                   <td>⭐⭐</td>
+                </tr>
+               </table></td>
+            <td><table cellspacing="10">
+                <tr>
+                   <td>Python</td>
+                   <td>⭐⭐⭐</td>
+                </tr>
+                <tr>
+                   <td>Java</td>
+                   <td>⭐⭐⭐</td>
+                </tr>
+                <tr>
+                   <td>SQL</td>
+                   <td>⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                   <td>Linux</td>
+                   <td>⭐⭐⭐⭐</td>
+                </tr>
+               </table></td>
+        </tr>
+    </table>
+    
+     
+
+    <hr size="5" color="Yellow">
+    <a href="hobbies.html">Mes hobbies</a>
+    <br>
+    <a href="contact.html">Mes contact</a>
+</body>
+</html>
